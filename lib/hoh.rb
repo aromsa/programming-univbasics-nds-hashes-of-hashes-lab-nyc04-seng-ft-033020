@@ -51,8 +51,7 @@ biological_life = {
      }
    }
  }
- label: "Order"
- }
+ label: "Order",
  label: "Family",
    sub_category: {
      label: "Genus"
