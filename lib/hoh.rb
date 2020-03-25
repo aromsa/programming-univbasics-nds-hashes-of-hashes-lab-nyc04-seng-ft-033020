@@ -63,7 +63,7 @@ biological_life = {
        }
      }
    }
-}
+}}
 end
 
 
