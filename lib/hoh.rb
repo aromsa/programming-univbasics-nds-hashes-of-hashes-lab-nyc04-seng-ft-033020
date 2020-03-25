@@ -53,9 +53,9 @@ biological_life = {
  }
  label: "Order"
  }
-label: "Family",
+ label: "Family",
    sub_category: {
-     label: "Genus",
+     label: "Genus"
    }
  }
 label: "Species",
