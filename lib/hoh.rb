@@ -58,6 +58,7 @@ biological_life = {
 label: "Species",
    sub_category: "Order"
    }
+   biological_life
 end
 
-biological_life
+
