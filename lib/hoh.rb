@@ -43,7 +43,7 @@ def naming_system
   # HoH all the way to Species!
 
 biological_life = {
-label: "Kingdom",
+  label: "Kingdom",
    sub_category: {
      label: "Phylum",
      sub_category: {
@@ -53,9 +53,7 @@ label: "Kingdom",
  }
  label: "Order"
  }
- 
- PORTION_3 = {
-   label: "Family",
+label: "Family",
    sub_category: {
      label: "Genus",
    }
