@@ -58,9 +58,7 @@ label: "Family",
      label: "Genus",
    }
  }
- 
- PORTION_4 = {
-   label: "Species",
+label: "Species",
    sub_category: nil
    }
 end
